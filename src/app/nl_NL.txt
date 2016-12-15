@@ -1,0 +1,5 @@
+language=Nederlands
+language.code=nl_NL
+
+main.kijkhier=LOOK AT DIS LOOK
+main.ditistof=DIT IS tof...

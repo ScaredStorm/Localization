@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace ClassLibrary
+namespace Library
 {
-    public class Class1
+    public class Localization
     {
-        public void Method1()
-        {    
-        }
     }
 }
